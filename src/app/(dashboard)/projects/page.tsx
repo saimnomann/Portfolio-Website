@@ -2,7 +2,7 @@ const projects=[{
     name:'Portfolio Website',
     description:"A responsive portfolio built with Next.js, Tailwind CSS, and TypeScript. Hosted on Vercel, featuring dynamic routes and a dark theme UI.",
     Tech:"Next.js • Tailwind CSS • TypeScript • Vercel",
-    link:"abc"
+    link:"/"
 }]
 export default function Projects(){
 return(
